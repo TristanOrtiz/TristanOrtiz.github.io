@@ -1,7 +1,7 @@
 
 <h1> CS 3366 Project 2 Report  <font size="3px"> by Tristan Ortiz </font></h1> 
 <p align="center">
-  <img src="https://i.ibb.co/pLrrgtC/project-2-sketch.png" alt="Project Mirror Sketch" width="600px">
+  <img src="/images/project 2 sketch.png" alt="Project Mirror Sketch" width="600px">
 </p>
 
 ### General Information
