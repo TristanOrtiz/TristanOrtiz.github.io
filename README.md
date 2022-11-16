@@ -40,6 +40,8 @@ Mirror Time
   <img src="/images/Screenshot 2022-11-15 171357.png" alt="Project Mirror Implemented Screenshot" width="900px">
 </p>
 
+Demo Link >>> https://tristanortiz.github.io/
+
 ### General Information
 Personalized Calendar
 - The personalized calendar was implemented by using loadJSON() to gather information from a local file called calendar.json.
@@ -68,8 +70,6 @@ Weight
 <p align="center">
   <img src="/images/ezgif.com-gif-maker (1).gif" alt="Project Advance Feature Gif" width="900px">
 </p>
-
-Demo Link >>> https://tristanortiz.github.io/
 
 ### Drag and Drop UI
 - The drag and drop UI was implemented for the user to move around the displayed items.
