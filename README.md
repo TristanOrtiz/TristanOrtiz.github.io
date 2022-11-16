@@ -69,7 +69,7 @@ Weight
   <img src="/images/ezgif.com-gif-maker (1).gif" alt="Project Advance Feature Gif" width="900px">
 </p>
 
-https://tristanortiz.github.io/
+Demo Link >>> https://tristanortiz.github.io/
 
 ### Drag and Drop UI
 - The drag and drop UI was implemented for the user to move around the displayed items.
