@@ -37,7 +37,7 @@ Mirror Time
 
 ## Sketch Implementation
 <p align="center">
-  <img src="https://i.ibb.co/LP1zw66/Screenshot-2022-11-15-171357.png" alt="Project Mirror Implemented Screenshot" width="900px">
+  <img src="/images/Screenshot 2022-11-15 171357.png" alt="Project Mirror Implemented Screenshot" width="900px">
 </p>
 
 ### General Information
@@ -66,7 +66,7 @@ Weight
 
 ## Advance Feature
 <p align="center">
-  <img src="https://media4.giphy.com/media/i4srHZXccNFmSr5fYM/giphy.gif?cid=790b7611ba12e81c65408fc392fc9f436766fde802298719&rid=giphy.gif&ct=g" alt="Project Advance Feature Gif" width="900px">
+  <img src="/images/ezgif.com-gif-maker (1).gif" alt="Project Advance Feature Gif" width="900px">
 </p>
 
 ### Drag and Drop UI
